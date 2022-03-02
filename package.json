@@ -1,0 +1,27 @@
+{
+  "name": "react-country-map",
+  "version": "1.0.0",
+  "description": "React library to render clickable/hoverable vector country map.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahajannikhil/react-country-map.git"
+  },
+  "author": "Nikhil Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahajannikhil/react-country-map/issues"
+  },
+  "homepage": "https://github.com/mahajannikhil/react-country-map#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.2",
+    "prop-types": "^15.8.1",
+    "styled-components": "^5.3.3"
+  },
+  "publishConfig": {
+    "@mahajannikhil:registry": "https://npm.pkg.github.com"
+  }
+}
